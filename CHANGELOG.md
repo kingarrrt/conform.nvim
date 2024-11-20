@@ -1,5 +1,21 @@
 # Changelog
 
+## [8.3.0](https://github.com/stevearc/conform.nvim/compare/v8.2.0...v8.3.0) (2024-11-20)
+
+
+### Features
+
+* add commitmsgfmt ([#579](https://github.com/stevearc/conform.nvim/issues/579)) ([b6b03cb](https://github.com/stevearc/conform.nvim/commit/b6b03cb5c826a9ef310b14edeb8f33b18093f8af))
+* add support for syntax_tree ([#578](https://github.com/stevearc/conform.nvim/issues/578)) ([8a8b158](https://github.com/stevearc/conform.nvim/commit/8a8b158ead6dee99c6b3af91ad6a41e7a4c54ef3))
+
+
+### Bug Fixes
+
+* **elixir mix:** run formatter from project root ([#576](https://github.com/stevearc/conform.nvim/issues/576)) ([f1125f8](https://github.com/stevearc/conform.nvim/commit/f1125f8eace158255cf55772ce039aaf178a6b42))
+* **prettier:** respect "prettier" config field in "package.json" ([#573](https://github.com/stevearc/conform.nvim/issues/573)) ([1a7ff54](https://github.com/stevearc/conform.nvim/commit/1a7ff54dcfbe1af139b11829c6d58f5ffab87707))
+* **stylelint:** support ignored files, node_modules, and cwd ([#577](https://github.com/stevearc/conform.nvim/issues/577)) ([2e281bc](https://github.com/stevearc/conform.nvim/commit/2e281bc8f3833ebc606660081be50c88ccadcbea))
+* **xmlformat:** rename to  xmlformatter ([#572](https://github.com/stevearc/conform.nvim/issues/572)) ([d23765f](https://github.com/stevearc/conform.nvim/commit/d23765f50637529078aca879351a219d6b1d8010))
+
 ## [8.2.0](https://github.com/stevearc/conform.nvim/compare/v8.1.0...v8.2.0) (2024-11-09)
 
 
